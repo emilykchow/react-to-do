@@ -1,0 +1,13 @@
+form {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+}
+
+.createArea-wrapper {
+    margin: 18px;
+    
+}
+
+.btn btn-primary btn-lg btn-block {
+}

@@ -1,0 +1,13 @@
+.note-wrapper {
+    background: white;
+    border-radius: 7px;
+    box-shadow: 8px 8px #D7AAF7; 
+    float: left;
+    margin: 18px;
+}
+
+.card-title {
+    height: 30px;
+    /* background: #D7AAF7 ; */
+    
+}
